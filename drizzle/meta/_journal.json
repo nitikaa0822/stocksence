@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1790398721471,
+      "tag": "0000_round_robin_chapel",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790398722761,
+      "tag": "0001_stock_integrity",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1790403043333,
+      "tag": "0002_square_barracuda",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1790403044586,
+      "tag": "0003_delivery_steps",
+      "breakpoints": true
+    }
+  ]
+}
